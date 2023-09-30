@@ -1,0 +1,69 @@
+---
+## descargue la imagen llamada "logo.png" a donde lo vaya a correr para que funcione por favor
+title: "Tarjeta de Débito"
+subtitle: "Un viaje al mundo de las finanzas"
+author: "Abigail Sampedro, Diego Pedraza, Karen Brito y Ana Berenice García"
+date: "26 de Septiembre de 2023"
+output:
+  ioslides_presentation:
+    logo: logo.png
+    css: estilo.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Indice
+
+-   Introducción
+-   Dinero Electronico
+-   ¿Qué es una tarjeta de débito?
+-   Como funcionan las tarjetas de débito
+-   Tarifas asociadas a las tarjetas de débito
+-   Beneficios de una tarjeta de debito
+-   Que se necesita para tener una
+-   Conclusión 
+-   Bibliografia
+
+## Introducción
+
+En esta presentación hablaremos de la famosa tarjeta de débito, no solo de lo que es, si no, también sobre  su funcionamiento, las ventajas de tener una, como obtener una y las tarifas anuales o mensuales.
+
+## Dinero Electronico
+
+El dinero electrónico solo se puede usar o intercambiar a través de vías digitales en internet, además no es algo que puedas tocar, si no es el valor que estás generando por un trabajo y se puede intercambiar por medio de celulares, relojes inteligentes y terminales de cobro.
+
+## ¿Qué es una tarjeta de débito?
+
+Una tarjeta de débito es un tipo de tarjeta bancaria que permite a los titulares de cuentas bancarias realizar transacciones financieras, utilizando fondos mantenidos en sus cuentas o de ahorro.
+
+## Como funcionan las tarjetas de débito
+
+Puede utilizar su tarjeta en un cajero automático para retirar efectivo, consultar su saldo y realizar otras operaciones bancarias. Puede utilizar su tarjeta de débito para realizar compras en tiendas, y otros lugares que acepten tarjetas de débito, así como también se pueden utilizar para realizar compras en línea.
+
+## Tarifas asociadas a las tarjetas de débito
+
+Algunas cuentas bancarias pueden incurrir en tarifas mensuales o anuales, aunque algunas instituciones ofrecen cuentas libres de tarifas. Si utiliza su tarjeta de débito en el extranjero, es posible que se apliquen tarifas de conversión de moneda o tarifas adicionales por transacciones internacionales.
+
+## Beneficios de una tarjeta de debito
+-   Administra mejor tu dinero
+-   Te abre puertas
+-   Proporciona seguridad
+-   Versatilidad
+-   Ahorro
+-   Comodidad
+-   Recompensas
+
+## Que se necesita para tener una
+
+Puedes adquirir la tuya en alguna aplicación en internet o ir directamente a la sucursal en donde te pedirán la siguiente información: comprobante de domicilio y una identificación personal. También es importante saber que tipo de tarjeta te conviene más.
+
+## Conclusión
+
+Después de todo lo anterior podemos notar los grandes beneficios de las tarjetas de débito, siendo una herramienta muy util para administrar nuestro dinero y tener esa conexión con el mundo digital. Al poder tener nuesto dinero digital nos abre las puertas a inversiones o mercados digitales que de otra forma no serían posibles.
+
+## Bibliografia
+
+-   BBVA. (2023). BBVA MEXICO. https://www.bbva.mx/educacion-financiera/banca-digital/cuenta-digital-que-es-una-tarjeta-de-debito.html
+-   Morelos, M. (s/f). ▷ ¿Qué son las tarjetas de débito? Clip.mx. Recuperado el 26 de septiembre de 2023, de https://blog.clip.mx/articulo/que-son-y-para-que-sirven-las-tarjetas-de-debito
